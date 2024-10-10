@@ -47,7 +47,6 @@ function App() {
                 playAudio
                 playVideo
                 videoTrack={localCameraTrack}
-                audioTrack={localMicrophoneTrack}
                 cover="https://www.agora.io/en/wp-content/uploads/2022/10/3d-spatial-audio-icon.svg"
               >
                 <samp className="user-name">You</samp>
